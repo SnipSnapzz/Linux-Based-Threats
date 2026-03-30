@@ -1,7 +1,3 @@
-; rev tcp shellcode 
-; just a practice code ...
-; by @5mukx
-
 ; x86 linux reverse tcp shellcode
 
 section .text
