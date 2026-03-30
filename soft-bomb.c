@@ -24,5 +24,3 @@ int main() {
 
   return 0;
 }
-
-// Coded By Smukx . For More info visit https://github.com/Linux-Attacks
